@@ -1,6 +1,8 @@
 # Data Analysis for 2019 Indian General Election
 Who are the Winners in the 2019 Indian General Election?
 
+<img src="https://github.com/gui33627/UCLAIntroDataScience/blob/master/Images/3194-banner1.jpg"  width="450" height="250"> 
+
 This is a repository for the final project of Class Introduction to Data Science in UCLA Extension.  
 ________________________________________________
 ## Project Description
