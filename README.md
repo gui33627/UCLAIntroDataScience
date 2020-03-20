@@ -15,6 +15,6 @@ The Lok Sabha, the lower house of the Parliament of India, is made up of Members
 | File| Description     |
 | ---------- | -----------| 
 |LS_2.0.csv| The dataset in csv format| 
-|Code.R|The codes of data analysis in R file|
+|yangj_FinalProject.R|The codes of data analysis in R file|
 |Memo.pdf|The memo for management-level audience to read|
-|Report (Technical Details).pdf|The formal report for data scientists to read|
+|yangj_FinalProject.pdf|The formal report for data scientists to read|
