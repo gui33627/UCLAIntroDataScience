@@ -1,7 +1,7 @@
 # Data Analysis for 2019 Indian General Election
 Who are the Winners in the 2019 Indian General Election?
 
-<img src="https://github.com/gui33627/UCLAIntroDataScience/blob/master/Images/3194-banner1.jpg"  width="450" height="250"> 
+<img src="https://github.com/gui33627/UCLAIntroDataScience/blob/master/Images/3194-banner1.jpg"  width="650" height="250"> 
 
 This is a repository for the final project of Class Introduction to Data Science in UCLA Extension.  
 ________________________________________________
@@ -15,6 +15,5 @@ The Lok Sabha, the lower house of the Parliament of India, is made up of Members
 | File| Description     |
 | ---------- | -----------| 
 |LS_2.0.csv| The dataset in csv format| 
-|yangj_FinalProject.R|The codes of data analysis in R file|
-|Memo.pdf|The memo for management-level audience to read|
-|yangj_FinalProject.pdf|The formal report for data scientists to read|
+|yangj_FinalProject.R|The code of data analysis in R file|
+|yangj_FinalProject.pdf|The formal report for the data analysis|
