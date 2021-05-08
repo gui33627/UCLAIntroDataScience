@@ -8,7 +8,6 @@ library(randomForest)
 library(rpart)
 library(rpart.plot)
 
-setwd("C:/Users/gui33/Desktop/Intrduction to Data Science/finalproject")
 df <- read.csv("LS_2.0.csv")
 colnames(df)
 # [1] "STATE"                                    "CONSTITUENCY"                            
