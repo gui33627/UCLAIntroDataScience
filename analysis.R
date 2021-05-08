@@ -1,6 +1,3 @@
-# Final Project
-# Name: Junhui Yang
-
 library(dplyr)
 library(plotrix)
 library(ggplot2)
